@@ -1,0 +1,7 @@
+{
+  "name": "obol-floor",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
